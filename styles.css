@@ -518,7 +518,7 @@ body.dark-mode .skill-name {
 }
 
 .dark-mode .education-card h5 {
-    color: #fff;
+    color: #3E3232;
 }
 
 .education-card p {
@@ -533,71 +533,6 @@ body.dark-mode .skill-name {
     height: auto;
     margin-top: -60px;
     margin-right: 50px; /* 100px gap at right for svg */
-}
-.hobbies {
-    margin-top: 100px;
-    font-family: "Prompt", sans-serif;
-    display: flex;
-    flex-direction: column;
-    padding: 0 1%; /* Increased padding for larger side gaps */
-    max-width: 1400px; /* Set a max-width to prevent excessive stretching on very wide screens */
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.hobbies h4 {
-    font-size: 60px;
-    font-weight: 500;
-    font-style: normal;
-    margin-bottom: 40px;
-    color: #3E3232;
-}
-
-.hobbies.dark-mode h4 {
-    color: #F6F5F2;
-}
-
-.hobby-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 60px;
-}
-
-.hobby-item {
-    text-align: center;
-    width: calc(16.66% - 50px); /* Adjust width for 6 items per row with gap */
-}
-
-.hobby-image {
-    width: 180px;
-    height: 180px;
-    border-radius: 10px;
-    border: 2px solid #333;
-    object-fit: scale-down;
-    transition: transform 0.3s;
-    background-color: #fff;
-}
-
-.hobby-image.dark-mode {
-    background-color: #3E3232;
-    border: 2px solid #000000;
-}
-
-.hobby-image:hover {
-    transform: scale(1.2);
-    border-color: #666;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-.hobby-item p {
-    font-size: 20px;
-    margin-top: 20px;
-    color: #3E3232;
-}
-
-.hobby-item p.dark-mode {
-    color: #F6F5F2;
 }
 /* Contacts Section Styles */
 .contacts {
