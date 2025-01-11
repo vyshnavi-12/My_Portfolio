@@ -24,7 +24,7 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 
 - HTML5 for structure and content
 - CSS3 for styling and animations
-- Vanilla JavaScript for interactivity
+- JavaScript for interactivity
 - SVG illustrations for visual elements
 - GitHub Pages for deployment
 
