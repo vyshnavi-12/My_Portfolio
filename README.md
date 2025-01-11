@@ -82,7 +82,13 @@ The website is automatically deployed using GitHub Pages. Any changes pushed to 
 
 ## 📧 Contact
 
-- Portfolio Website: [vyshnavi-12.github.io/My_Portfolio](https://vyshnavi-12.github.io/My_Portfolio/)
 - GitHub: [@vyshnavi-12](https://github.com/vyshnavi-12)
 - LinkedIn: [@sri-vyshnavi-nakka](https://www.linkedin.com/in/sri-vyshnavi-nakka-38136428b/)
 - Email: [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
+
+## Support 🙋‍♂️
+
+If you have any questions or need help, please open an issue in the repository.
+
+---
+Made with ❤️ by Sri Vyshnavi
