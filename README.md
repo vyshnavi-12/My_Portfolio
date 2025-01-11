@@ -91,4 +91,4 @@ The website is automatically deployed using GitHub Pages. Any changes pushed to 
 If you have any questions or need help, please open an issue in the repository.
 
 ---
-Made with ❤️ by Sri Vyshnavi
+Made by Sri Vyshnavi
