@@ -86,6 +86,3 @@ The website is automatically deployed using GitHub Pages. Any changes pushed to 
 - GitHub: [@vyshnavi-12](https://github.com/vyshnavi-12)
 - LinkedIn: [@sri-vyshnavi-nakka](https://www.linkedin.com/in/sri-vyshnavi-nakka-38136428b/)
 - Email: [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
-
----
-⭐️ From [vyshnavi-12](https://github.com/vyshnavi-12)
