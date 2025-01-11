@@ -81,15 +81,11 @@ To make changes to the website:
 
 The website is automatically deployed using GitHub Pages. Any changes pushed to the main branch will be reflected on the live site.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📧 Contact
 
 - Portfolio Website: [vyshnavi-12.github.io/My_Portfolio](https://vyshnavi-12.github.io/My_Portfolio/)
 - GitHub: [@vyshnavi-12](https://github.com/vyshnavi-12)
-- LinkedIn: [@sri-vyshnavi-nakka](https://www.linkedin.com/in/sri-vyshnavi-nakka-38136428b/)]
+- LinkedIn: [@sri-vyshnavi-nakka](https://www.linkedin.com/in/sri-vyshnavi-nakka-38136428b/)
 - Email: [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
 
 ---
